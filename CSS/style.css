@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+/*#conatainer{
+    background-color: bisque;
+    height: 300px;
+    border: 2px solid gold;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding-top: 100px;
+    padding-left: 100px;
+    box-sizing: border-box;
+}
+.child1{
+    background-color: brown;
+    border: 1px dotted orchid;
+    height: 100px;
+    width: 100px;
+    padding-top: 20px;
+    color:aqua;
+
+}
+div+p{
+    background-color: plum;
+}*/
+.container p{
+background-color: aliceblue;
+}
+#cont p{
+background-color: rgb(230, 126, 126);
+}
