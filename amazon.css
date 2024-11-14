@@ -1,0 +1,13 @@
+.container{
+    background-color: navy;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    color: white;
+    justify-content: space-evenly;
+    align-items: center;
+    grid-template-columns: repeat(12,1Fr);
+    grid-template-columns: repeat(6,1Fr);
+
+}
